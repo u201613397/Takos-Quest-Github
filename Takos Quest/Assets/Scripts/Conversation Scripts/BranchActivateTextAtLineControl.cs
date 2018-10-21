@@ -16,11 +16,11 @@ public class BranchActivateTextAtLineControl : MonoBehaviour {
 	public BranchTextBoxManagerControl textBoxManagerTmp;
 
 	[Header("Language Variables")]
-	public int currentLanguaje;
+	public int currentLanguage;
 
 	[Header("Girls Variables")]
 	public int portraitPoseToSend;
-	public int portraitGirlToSend;
+	public int portraitCharacterToSend;
 	public int portraitEmotionToSend;
 
 	[Header("Answers Variables")]
@@ -47,7 +47,7 @@ public class BranchActivateTextAtLineControl : MonoBehaviour {
 
 		textBoxManagerTmp.isAPlayerName = isAPlayerName;
 
-		textBoxManagerTmp.ReloadScript (actualText, portraitEmotionToSend,portraitGirlToSend,portraitPoseToSend);
+		textBoxManagerTmp.ReloadScript (actualText, portraitEmotionToSend,portraitCharacterToSend,portraitPoseToSend);
 		textBoxManagerTmp.currentLine = startLine;
 		textBoxManagerTmp.endAtLine = endLine;
 		textBoxManagerTmp.EnabledTextBox ();
@@ -64,8 +64,8 @@ public class BranchActivateTextAtLineControl : MonoBehaviour {
 		}
 	}
 	public void ChangeLanguaje(){
-		currentLanguaje = PlayerPrefs.GetInt("CurrentLanguage");
-		switch (currentLanguaje) {
+		currentLanguage = PlayerPrefs.GetInt("CurrentLanguage");
+		switch (currentLanguage) {
 		case 0:
 			actualText = arrayOfArchives [0];
 			break;

@@ -66,4 +66,7 @@ public class LevelButtonControl : MonoBehaviour {
 			}
 		imageButton.color = colorText;
 	}
+	public void SaveLevelVariables(){
+		PlayerPrefs.SetInt ("CurrentLevel", levelValue);
+	}
 }

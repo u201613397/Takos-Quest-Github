@@ -15,5 +15,8 @@ EditorBuildSettings:
     path: Assets/Scenes/StoryModeMapScene.unity
     guid: df87e44cc126bde4fbb7f5f3865c77f7
   - enabled: 1
+    path: Assets/Scenes/StoryConversationScene.unity
+    guid: 1c15832a1af521d4988427d7390eb506
+  - enabled: 1
     path: Assets/Scenes/TestGameplay.unity
     guid: da6de3509b9bc7743b8b7fde3a1ee30a
