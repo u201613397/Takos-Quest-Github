@@ -33,7 +33,7 @@ public class BranchActivateTextAtLineControl : MonoBehaviour {
 	public bool isAPlayerName;
 
 	void Start () {
-		ChangeLanguaje ();
+		ChangeLanguage ();
 		if (isFirstDialogue) {
 			Invoke ("SendReloadTextBoxManager", 1f);
 		}
@@ -63,21 +63,8 @@ public class BranchActivateTextAtLineControl : MonoBehaviour {
 			Destroy (this.gameObject);
 		}
 	}
-	public void ChangeLanguaje(){
+	public void ChangeLanguage(){
 		currentLanguage = PlayerPrefs.GetInt("CurrentLanguage");
-		switch (currentLanguage) {
-		case 0:
-			actualText = arrayOfArchives [0];
-			break;
-		case 1:
-			actualText = arrayOfArchives [1];
-			break;
-		case 2:
-			actualText = arrayOfArchives [2];
-			break;
-		case 3:
-			actualText = arrayOfArchives [3];
-			break;
-		}
+		actualText = arrayOfArchives [currentLanguage];
 	}
 }

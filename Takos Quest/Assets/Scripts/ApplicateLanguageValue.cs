@@ -13,6 +13,7 @@ public class ApplicateLanguageValue : MonoBehaviour {
 		if (_textAsset != null) {
 			dialogueLines = _textAsset.text.Split ('\n');
 		}
+		ApplicateInitialChangeLanguage ();
 	}
 	
 	// Update is called once per frame
@@ -22,4 +23,9 @@ public class ApplicateLanguageValue : MonoBehaviour {
 	public void ApplicateChangeLanguage(int language){
 		_text.text = dialogueLines [language];
 	}
+	public void ApplicateInitialChangeLanguage(){
+		int tmp = PlayerPrefs.GetInt ("CurrentLanguage");
+		ApplicateChangeLanguage (tmp);
+	}
 }
+

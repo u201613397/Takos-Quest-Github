@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class ChangeSoundValue : MonoBehaviour {
 
 	private float soundsValue;
-	public ApplicateSoundValue soundToAffect;
+	public PlaySoundControl soundToAffect;
 	public string typeSoundPref;
 	private Slider _slide;
 	public Text soundsValueText;
@@ -26,6 +26,21 @@ public class ChangeSoundValue : MonoBehaviour {
 		PlayerPrefs.SetFloat (typeSoundPref, soundsValue);
 		soundsValueText.text = (soundsValue*10).ToString ("F0");
 		soundToAffect.ApplicateChange ();
+	}
+	public void ChangeSoundWithButton(){
+		if (soundsValue * 10 == 0) {
+			soundsValue = 1;
+			PlayerPrefs.SetFloat (typeSoundPref, soundsValue);
+			soundsValueText.text = (soundsValue * 10).ToString ("F0");
+			_slide.value = soundsValue*10;
+			soundToAffect.ApplicateChange ();
+		} else if (soundsValue * 10 != 0) {
+			soundsValue = 0;
+			PlayerPrefs.SetFloat (typeSoundPref, soundsValue);
+			soundsValueText.text = (soundsValue * 10).ToString ("F0");
+			_slide.value = soundsValue*10;
+			soundToAffect.ApplicateChange ();
+		}
 	}
 
 }

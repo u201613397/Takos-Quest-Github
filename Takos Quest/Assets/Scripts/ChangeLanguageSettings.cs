@@ -18,4 +18,21 @@ public class ChangeLanguageSettings : MonoBehaviour {
 		PlayerPrefs.SetInt ("CurrentLanguage", language);
 		allLanguageContainer.ApplicateAllLanguageChange (language);
 	}
+	public void ChangeLanguageByButton(int sign){
+		int tmp = PlayerPrefs.GetInt ("CurrentLanguage");
+		if (sign == 1) {
+			tmp = tmp + 1;
+			if (tmp >= allLanguageContainer.maxNumbOfLanguages) {
+				tmp = 0;
+			}
+		}
+		if (sign == -1) {
+			tmp = tmp - 1;
+			if (tmp < 0) {
+				tmp = allLanguageContainer.maxNumbOfLanguages - 1;
+			}
+		}
+		PlayerPrefs.SetInt ("CurrentLanguage", tmp);
+		allLanguageContainer.ApplicateAllLanguageChange (tmp);
+	}
 }

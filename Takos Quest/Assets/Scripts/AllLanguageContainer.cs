@@ -6,6 +6,7 @@ public class AllLanguageContainer : MonoBehaviour {
 
 	public int currentLanguage;
 	public ApplicateLanguageValue[] allLanguageTexts;
+	public int maxNumbOfLanguages;
 	// Use this for initialization
 	void Start () {
 		currentLanguage = PlayerPrefs.GetInt ("CurrentLanguage");
@@ -19,7 +20,9 @@ public class AllLanguageContainer : MonoBehaviour {
 	public void ApplicateAllLanguageChange(int language){
 		currentLanguage = language;
 		for (int i = 0; i < allLanguageTexts.Length; i++) {
-			allLanguageTexts [i].ApplicateChangeLanguage (language);
+			if (allLanguageTexts [i].isActiveAndEnabled) {
+				allLanguageTexts [i].ApplicateChangeLanguage (language);
+			}
 		}
 	}
 }

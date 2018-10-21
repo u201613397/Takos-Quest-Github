@@ -599,10 +599,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 8
   endLine: 8
   isFirstDialogue: 0
@@ -658,10 +662,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 12
   endLine: 14
   isFirstDialogue: 0
@@ -754,10 +762,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 20
   endLine: 20
   isFirstDialogue: 0
@@ -1150,10 +1162,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 0
   endLine: 0
   isFirstDialogue: 1
@@ -1970,10 +1986,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 6
   endLine: 6
   isFirstDialogue: 0
@@ -2897,10 +2917,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 24
   endLine: 24
   isFirstDialogue: 0
@@ -3094,10 +3118,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 22
   endLine: 22
   isFirstDialogue: 0
@@ -3168,6 +3196,132 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2042193612
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 2042193615}
+  - component: {fileID: 2042193614}
+  - component: {fileID: 2042193613}
+  m_Layer: 0
+  m_Name: BGMusic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2042193613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2042193612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8063d5f11142a8499cc0992ed8aec68, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  typeSoundPref: MusicValue
+  maxSoundValue: 1
+  sourceMusic: {fileID: 2042193614}
+  allClipsToPlay: []
+  canPlayClip: 1
+--- !u!82 &2042193614
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2042193612}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f48d6bd0ce02a52409ce20978eee8654, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!4 &2042193615
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2042193612}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2061033882
 GameObject:
   m_ObjectHideFlags: 0
@@ -3196,10 +3350,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   arrayOfArchives:
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
-  - {fileID: 4900000, guid: dd302a9a58f0cd44e8b248cd018c18df, type: 3}
+  - {fileID: 4900000, guid: f3e89d84c8a7762419ff5932f9f8a8d3, type: 3}
+  - {fileID: 4900000, guid: 72e53a7428ccc60488089751396687bd, type: 3}
+  - {fileID: 4900000, guid: aaad723b110c744408455070619019aa, type: 3}
+  - {fileID: 4900000, guid: e96d5f6f9e0ff204db891eefa9fb3d18, type: 3}
+  - {fileID: 4900000, guid: d36fab91233d62d46b7ec03c2cb86e03, type: 3}
+  - {fileID: 4900000, guid: a1744b3429630974cbe328dddd8942bc, type: 3}
+  - {fileID: 4900000, guid: 8d1c4f84a428c5542b8c75df51d1a8db, type: 3}
+  - {fileID: 4900000, guid: bb909400d9898e4439304e8e150b54bd, type: 3}
   startLine: 10
   endLine: 10
   isFirstDialogue: 0
