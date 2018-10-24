@@ -46,6 +46,8 @@ public class PlayerControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		//PlayerMovement ();
+		MouseSwipe ();
+		/*
 		#if UNITY_EDITOR
 		MouseSwipe ();
 		#endif
@@ -53,7 +55,7 @@ public class PlayerControl : MonoBehaviour {
 		#if UNITY_ANDROID
 		TouchSwipe();
 		#endif
-
+*/
 		CheckWalls ();
 	}
 
